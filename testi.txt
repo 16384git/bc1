@@ -1,6 +1,6 @@
 master:eka rivi
 tehdään muutos hotfix2:aloitus 12.10.2021 1038
-muutos tehty 10:40  Väri muuttui oranssiksi, eli muutoksia ei ole
+hotfix 2
 tehty git repositoryyn testing
 
 taas on muokattu
