@@ -1,3 +1,5 @@
 aloitus 12.10.2021 1038
 muutos tehty 10:40  Väri muuttui oranssiksi, eli muutoksia ei ole
-tehty git repositoryyn
+tehty git repositoryyn testing
+
+taas on muokattu
